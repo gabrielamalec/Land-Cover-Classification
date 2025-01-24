@@ -2,6 +2,7 @@
 
 Remote Sensing & Image Processing - Machine Learning <br>
 Gabriela Malec & Patrycja Majdak
+
 ---
 
 This project demonstrates an image classification using machine learning techniques applied to a raster image. The image data is processed and classified into different categories using a Random Forest classifier.
