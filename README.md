@@ -17,9 +17,10 @@ This repository contains Python code that performs raster image classification. 
   ![pobrane](https://github.com/user-attachments/assets/ad769544-ecef-42de-9e3e-7d3e25bb78e7) <br>
   In this project, we manually defined the training fields by labeling specific regions of the image. We labeled three regions as follows: <br>
 
-    Class 1 (Buildings): Region (1100:1200, 1100:1200)
-    Class 2 (Crops): Region (700:800, 900:1000)
+    Class 1 (Buildings): Region (1100:1200, 1100:1200) <br>
+    Class 2 (Crops): Region (700:800, 900:1000) <br>
     Class 3 (Forest): Region (600:700, 50:150) <br>
+    
   ![trainig_fields_display](https://github.com/user-attachments/assets/92f23d6b-6f89-43cb-b425-0bb05e4b9e50)  
 - Train a Random Forest model to classify the raster image. <br>
   ![8df39724-977b-409d-8598-7950b8264008](https://github.com/user-attachments/assets/08b6bf02-19c7-4361-a10d-80c863c1750f)
@@ -27,5 +28,4 @@ This repository contains Python code that performs raster image classification. 
   We checked the accuracy and improved it by providing more precise square areas for labeling. Initially, the accuracy was 0.756, but after refining the labeled areas, the accuracy increased to 0.839.
 - Visualize the classification results. <br>
   ![pobrane (1)](https://github.com/user-attachments/assets/3800da35-ee8c-46ac-823d-d07f307d7fc9)
-
 
