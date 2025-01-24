@@ -14,7 +14,7 @@ This repository contains Python code that performs raster image classification. 
 ### Key Features:
 - Read raster images with `rasterio`.
 - Create training data by manually labeling different regions of the image. <br>
-  ![pobrane](https://github.com/user-attachments/assets/ad769544-ecef-42de-9e3e-7d3e25bb78e7)
+  ![pobrane](https://github.com/user-attachments/assets/ad769544-ecef-42de-9e3e-7d3e25bb78e7) <br>
   In this project, we manually defined the training fields by labeling specific regions of the image. We labeled three regions as follows: <br>
 
     Class 1 (Buildings): Region (1100:1200, 1100:1200)
