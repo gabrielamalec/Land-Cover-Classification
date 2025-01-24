@@ -1,6 +1,6 @@
 # Land-Cover-Classification
 
-Remote Sensing & Image Processing - Machine Learning
+Remote Sensing & Image Processing - Machine Learning <br>
 Gabriela Malec & Patrycja Majdak
 ---
 
